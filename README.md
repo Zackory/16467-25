@@ -2,7 +2,7 @@
 
 ## Course Info
 
-#### [Syllabus]()  
+#### [Syllabus](https://docs.google.com/document/d/1m3BwEHdwdqFT9TvNd3BwAA_2jcxd9_FfcjKdoe0IrGk/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 12:30 PM - 1:50 PM  
 **Location**: Posner Hall (POS) 151  
@@ -21,7 +21,7 @@ The basic objective in the field of Human-Robot Interaction (HRI) is to create n
 
 | Date | Topic | Notes |
 |---|---|---|
-| **Week 1** <br> Mon, <br> Jan 13 | Introduction | [Syllabus]() |
+| **Week 1** <br> Mon, <br> Jan 13 | Introduction | [Syllabus](https://docs.google.com/document/d/1m3BwEHdwdqFT9TvNd3BwAA_2jcxd9_FfcjKdoe0IrGk/edit?usp=sharing) |
 | **Week 1** <br> Wed, <br> Jan 15 | Autonomy |  |
 | **Week 2** <br> Mon, <br> Jan 20 | No class; MLK Day |   |
 | **Week 2** <br> Wed, <br> Jan 22 | Appearance and Anthropomorphism |  |
