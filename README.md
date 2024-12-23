@@ -6,7 +6,7 @@
 
 **Time**: Monday & Wednesday 12:30 PM - 1:50 PM  
 **Location**: Posner Hall (POS) 151  
-**Instructor**: [Zackory Erickson](https://zackory.com) and [Michelle Zhao](https://mzhao98.github.io)  
+**Instructors**: [Zackory Erickson](https://zackory.com) and [Michelle Zhao](https://mzhao98.github.io)  
 **Office Hours**: TBD  
 
 ---
