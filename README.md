@@ -51,8 +51,8 @@ The basic objective in the field of Human-Robot Interaction (HRI) is to create n
 | **Week 12** <br> Wed, <br> Apr 2 | Assistive Robotics | **Term project: check in \#4** |
 | **Week 13** <br> Mon, <br> Apr 7 | Consumer Robotics |   |
 | **Week 13** <br> Wed, <br> Apr 9 | Industrial and Military Robotics |  |
-| **Week 14** <br> Mon, <br> Apr 14 | Invited speaker: Ethics and Societal Impact |  |
-| **Week 14** <br> Wed, <br> Apr 16 | AMA with CMU HRI grad students |  |
+| **Week 14** <br> Mon, <br> Apr 14 | AMA with CMU HRI grad students |  |
+| **Week 14** <br> Wed, <br> Apr 16 | [Illah Nourbakhsh](https://www.ri.cmu.edu/ri-faculty/illah-nourbakhsh/): Ethics and Societal Impact |  |
 | **Week 15** <br> Mon, <br> Apr 21 | Course Project Presentations |  |
 | **Week 15** <br> Wed, <br> Apr 23 | Course Project Presentations |  |
 
