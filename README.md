@@ -21,7 +21,7 @@ The basic objective in the field of Human-Robot Interaction (HRI) is to create n
 
 | Date | Topic | Notes |
 |---|---|---|
-| **Week 1** <br> Mon, <br> Jan 13 | Introduction | [Syllabus](https://docs.google.com/document/d/1m3BwEHdwdqFT9TvNd3BwAA_2jcxd9_FfcjKdoe0IrGk/edit?usp=sharing) |
+| **Week 1** <br> Mon, <br> Jan 13 | Introduction & HRI Survey | [Syllabus](https://docs.google.com/document/d/1m3BwEHdwdqFT9TvNd3BwAA_2jcxd9_FfcjKdoe0IrGk/edit?usp=sharing) |
 | **Week 1** <br> Wed, <br> Jan 15 | Autonomy |  |
 | **Week 2** <br> Mon, <br> Jan 20 | No class; MLK Day |   |
 | **Week 2** <br> Wed, <br> Jan 22 | Appearance and Anthropomorphism |  |
@@ -49,6 +49,6 @@ The basic objective in the field of Human-Robot Interaction (HRI) is to create n
 | **Week 13** <br> Wed, <br> Apr 9 | Industrial and Military Robotics |  |
 | **Week 14** <br> Mon, <br> Apr 14 | Invited speaker: Ethics and Societal Impact |  |
 | **Week 14** <br> Wed, <br> Apr 16 | AMA with CMU HRI grad students |  |
-| **Week 15** <br> Mon, <br> Dec 2 | Course Project Presentations |  |
-| **Week 15** <br> Wed, <br> Dec 4 | Course Project Presentations |  |
+| **Week 15** <br> Mon, <br> Apr 21 | Course Project Presentations |  |
+| **Week 15** <br> Wed, <br> Apr 23 | Course Project Presentations |  |
 
