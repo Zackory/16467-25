@@ -21,13 +21,13 @@ The basic objective in the field of Human-Robot Interaction (HRI) is to create n
 
 | Date | Topic | Notes |
 |---|---|---|
-| **Week 1** <br> Mon, <br> Jan 13 | Introduction & HRI Survey | [Syllabus](https://docs.google.com/document/d/1m3BwEHdwdqFT9TvNd3BwAA_2jcxd9_FfcjKdoe0IrGk/edit?usp=sharing) |
-| **Week 1** <br> Wed, <br> Jan 15 | Autonomy |  |
+| **Week 1** <br> Mon, <br> Jan 13 | Introduction | [Syllabus](https://docs.google.com/document/d/1m3BwEHdwdqFT9TvNd3BwAA_2jcxd9_FfcjKdoe0IrGk/edit?usp=sharing) |
+| **Week 1** <br> Wed, <br> Jan 15 | HRI Survey |  |
 | **Week 2** <br> Mon, <br> Jan 20 | No class; MLK Day |   |
-| **Week 2** <br> Wed, <br> Jan 22 | Appearance and Anthropomorphism |  |
-| **Week 3** <br> Mon, <br> Jan 27 | Nonverbal communication I |  |
-| **Week 3** <br> Wed, <br> Jan 29 | Nonverbal communication II |  |
-| **Week 4** <br> Mon, <br> Feb 3 | Final Project Planning | **Term project: ideation** |
+| **Week 2** <br> Wed, <br> Jan 22 | Autonomy and Final Project Discussion |  |
+| **Week 3** <br> Mon, <br> Jan 27 | Appearance and Anthropomorphism |  |
+| **Week 3** <br> Wed, <br> Jan 29 | Nonverbal communication I |  |
+| **Week 4** <br> Mon, <br> Feb 3 | Nonverbal communication II | **Term project: ideation** |
 | **Week 4** <br> Wed, <br> Feb 5 | Verbal communication and Emotions |  |
 | **Week 5** <br> Mon, <br> Feb 10 | Study Design I |  |
 | **Week 5** <br> Wed, <br> Feb 12 | Study Design II | **Term project: check in \#1** |
