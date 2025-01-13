@@ -7,7 +7,11 @@
 **Time**: Monday & Wednesday 12:30 PM - 1:50 PM  
 **Location**: Posner Hall (POS) 151  
 **Instructors**: [Zackory Erickson](https://zackory.com) and [Michelle Zhao](https://mzhao98.github.io)  
-**Office Hours**: TBD  
+> **Office Hours**:  
+Mon 2:30-3:30 PM, NSH 4519 (TA Abena)  
+Tue 1-2 PM, NSH 4519 (Michelle)  
+Wed 2 - 3 PM, NSH 4627 (Zackory)  
+Thu 1-2 PM, NSH TBD (TA Diana)  
 
 ---
 
