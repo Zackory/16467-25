@@ -11,7 +11,7 @@
 Mon 2:30-3:30 PM, NSH 4519 (TA Abena)  
 Tue 1-2 PM, NSH 4519 (Michelle)  
 Wed 2 - 3 PM, NSH 4627 (Zackory)  
-Thu 1-2 PM, NSH TBD (TA Diana)  
+Thu 1-2 PM, Hamerschlag B140 (TA Diana)  
 
 ---
 
